@@ -1,9 +1,11 @@
-import { Outlet } from "react-router-dom"
+import { Link, Outlet } from "react-router-dom"
 
 const Header = () => {
   return (
     <>
-      <div>Header</div>
+      <header>
+        <Link to="/">Podcaster</Link>
+      </header>
       <Outlet />
     </>
   )

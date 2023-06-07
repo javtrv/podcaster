@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom"
 import Header from "./components/Header"
-import App from "./App"
+import Home from "./Pages/Home"
 
 export const router = createBrowserRouter([
   {
@@ -8,7 +8,7 @@ export const router = createBrowserRouter([
     children: [
       {
         path: '/',
-        element: <App />
+        element: <Home />
       },
       {
         path: '/podcast/:id',

@@ -1,0 +1,70 @@
+header{
+  color: #3c4dfe;
+  text-decoration: inherit;
+  font-size: 1.5rem;
+  font-weight: 600;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem; 
+  margin-top: 20px;
+  border-bottom: 1px solid #a5a9ff;
+}
+
+.search{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1rem;
+  flex-direction: row;
+  .form-control{
+    width: 300px;
+    margin-left: 1rem;
+  }
+}
+
+.podcasts-grid{
+  margin-top: 5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  row-gap: 5rem;
+  width: 100%;
+}
+
+.truncate{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.podcasts-card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 300px;
+  height: 200px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+  cursor: pointer;
+  .card-title{
+    font-size: 1rem;
+  }
+  .card-text{
+    font-size: 0.8rem;
+  }
+  .card-body{
+    width: 290px;
+    padding-top:0;
+    padding-bottom: 0;
+    position: relative;
+    top: -50px;
+  }
+  .card-img-top{
+    width: 220px;
+    height: 200px;
+    position: relative;
+    top: -50px;
+  }
+}

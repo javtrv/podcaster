@@ -1,6 +1,5 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react-swc'
-import tsconfigPaths from 'vite-tsconfig-paths';
 
 export default defineConfig(({ command, mode }) => ({
 
@@ -10,5 +9,5 @@ export default defineConfig(({ command, mode }) => ({
     sourcemap: command === 'serve' ? 'inline' : false,
   },
 
-  plugins: [tsconfigPaths(),react()],
+  plugins: [react()],
 }));

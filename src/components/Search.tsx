@@ -6,8 +6,7 @@ interface SearchProps {
   handleChangeSearch: (value: string) => void
 }
 
-const Search = ({quantity, handleChangeSearch}: SearchProps) => {
-
+const Search = ({ quantity, handleChangeSearch }: SearchProps) => {
   return (
     <section className='search'>
         <Badge pill>
@@ -17,7 +16,7 @@ const Search = ({quantity, handleChangeSearch}: SearchProps) => {
           type="text"
           id="podcast-search-text"
           aria-describedby="podcast-search"
-          onChange={(e) => handleChangeSearch(e.target.value)}
+          onChange={(e) => { handleChangeSearch(e.target.value) }}
           placeholder='Filter podcasts...'
         />
     </section>

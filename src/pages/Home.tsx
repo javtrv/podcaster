@@ -5,17 +5,14 @@ import Search from '../components/Search'
 import PodcastGrid from '../components/PodcastGrid'
 import { usePodcast } from '../hooks/usePodcast'
 
-
 const Home = () => {
-
   const { podcastList, filterPodcastList } = usePodcast()
-
 
   return (
     <Container className='p-0'>
       <Row>
         <Col>
-          <Search 
+          <Search
             quantity={podcastList.length}
             handleChangeSearch={filterPodcastList}
           />

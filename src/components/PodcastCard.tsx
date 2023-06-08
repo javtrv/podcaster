@@ -1,13 +1,12 @@
 import Card from 'react-bootstrap/Card'
-import {type Podcast} from '../types.d'
+import { type Podcast } from '../types.d'
 
 interface PodcastCardProps {
   podcast: Podcast
 }
 
-const PodcastCard = ({podcast}: PodcastCardProps) => {
-  if (!podcast) return null
-  
+const PodcastCard = ({ podcast }: PodcastCardProps) => {
+  if (podcast === null) return null
   return (
     <Card className='podcasts-card'>
       <Card.Img variant="top" src={podcast.image} />

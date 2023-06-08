@@ -1,6 +1,6 @@
-import { createBrowserRouter } from "react-router-dom"
-import Header from "./components/Header"
-import Home from "./pages/Home"
+import { createBrowserRouter } from 'react-router-dom'
+import Header from './components/Header'
+import Home from './pages/Home'
 
 export const router = createBrowserRouter([
   {
@@ -17,7 +17,7 @@ export const router = createBrowserRouter([
       {
         path: '/podcast/:id/episode/:episodeId',
         element: <h1>Episode</h1>
-      },
+      }
     ]
   }
 

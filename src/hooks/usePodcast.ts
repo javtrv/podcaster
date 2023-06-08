@@ -1,34 +1,30 @@
 import { useEffect, useState, useRef } from 'react'
 import { type Podcast } from '../types.d'
 import { getPodcast } from '../services/getPodcast'
-import { scrollToTop } from '../helpers/helpers'
+import { scrollToTop, hasPassed24Hours, savePodcastList, getPodcastList, getLastUpdate } from '../helpers/helpers'
 
 export const usePodcast = () => {
   const [filteredPodcastList, setFilteredPodcastList] = useState<Podcast[]>([])
   const originalPodcastList = useRef<Podcast[]>([])
 
   const refreshPodcastList = () => {
-    getPodcast().then((res)=>{
-      const podcastListAux:Podcast[] = res.map((podcast:any) => {
-        return{
-          id: podcast.id.attributes['im:id'],
-          title: podcast['im:name'].label,
-          author: podcast['im:artist'].label,
-          image: podcast['im:image'][2].label
-        }
-      })
-      setFilteredPodcastList(podcastListAux)
-      originalPodcastList.current = podcastListAux
+    getPodcast().then((res) => {
+      if (res === null) return
+      setFilteredPodcastList(res)
+      originalPodcastList.current = res
+      savePodcastList(res)
+    }).catch((err: any) => {
+      console.error(err)
     })
   }
 
-  const filterPodcastList = (value:string) => {
+  const filterPodcastList = (value: string) => {
     scrollToTop()
     if (value === '') {
       setFilteredPodcastList(originalPodcastList.current)
       return
     }
-    const filteredPodcastListAux = originalPodcastList.current.filter((podcast:Podcast) => {
+    const filteredPodcastListAux = originalPodcastList.current.filter((podcast: Podcast) => {
       return podcast.title.toLowerCase().includes(value.toLowerCase()) ||
         podcast.author.toLowerCase().includes(value.toLowerCase())
     })
@@ -36,13 +32,18 @@ export const usePodcast = () => {
   }
 
   useEffect(() => {
-    refreshPodcastList()
+    const lastUpdate = getLastUpdate()
+    if (hasPassed24Hours((lastUpdate))) {
+      refreshPodcastList()
+    } else {
+      const podcastList = getPodcastList()
+      setFilteredPodcastList(podcastList)
+      originalPodcastList.current = podcastList
+    }
   }, [])
 
   return {
-    podcastList: filteredPodcastList ,
+    podcastList: filteredPodcastList,
     filterPodcastList
   }
 }
-
-  

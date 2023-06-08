@@ -1,0 +1,748 @@
+{
+  "resultCount": 21,
+  "results": [
+    {
+      "wrapperType": "track",
+      "kind": "podcast",
+      "artistId": 1536636674,
+      "collectionId": 934552872,
+      "trackId": 934552872,
+      "artistName": "Vulture",
+      "collectionName": "Switched on Pop",
+      "trackName": "Switched on Pop",
+      "collectionCensoredName": "Switched on Pop",
+      "trackCensoredName": "Switched on Pop",
+      "artistViewUrl": "https://podcasts.apple.com/us/artist/vulture/1536636674?uo=4",
+      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/switched-on-pop/id934552872?uo=4",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/switched-on-pop/id934552872?uo=4",
+      "artworkUrl30": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/30x30bb.jpg",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/60x60bb.jpg",
+      "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/100x100bb.jpg",
+      "collectionPrice": 0.00,
+      "trackPrice": 0.00,
+      "collectionHdPrice": 0,
+      "releaseDate": "2023-05-30T18:59:00Z",
+      "collectionExplicitness": "notExplicit",
+      "trackExplicitness": "notExplicit",
+      "trackCount": 347,
+      "trackTimeMillis": 2382,
+      "country": "USA",
+      "currency": "USD",
+      "primaryGenreName": "Music Commentary",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/600x600bb.jpg",
+      "genreIds": [
+        "1523",
+        "26",
+        "1310",
+        "1525"
+      ],
+      "genres": [
+        "Music Commentary",
+        "Podcasts",
+        "Music",
+        "Music Interviews"
+      ]
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP7542406129.mp3?updated=1686006209",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/90/95/27/9095278d-a548-2bf6-8f4e-04ee90e067c7/mza_16940411551581305764.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/90/95/27/9095278d-a548-2bf6-8f4e-04ee90e067c7/mza_16940411551581305764.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/listening-2-daft-punk-random-access-memories/id934552872?i=1000615840132&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "In the song \"Touch\" from Daft Punk's final studio album, 2013's Random Access Memories, featured artist Paul Williams sings a line that augured the end of an impressive collaboration: \"I need something more.\" With RAM, Daft Punk pulled out all the stops, going the opposite direction of their previous albums, to \"give life back to music\" and bestow hearts and souls upon their robotic doppelgängers.\nRAM features almost no samples or programmed digital instruments, instead leaning into extensive collaborations with legendary studio musicians, iconic producers like Nile Rodgers, and modern mavens such as Pharrell. The making of RAM followed the blueprint of classic albums from what Daft Punk called \"the golden age\" of recording—Fleetwood Mac, the Eagles, Pink Floyd. The duo spent over a million dollars, held five years of studio sessions, and painstakingly crafted each track. The result was a record that helped usher in a retro disco-funk revival across pop music and generated a smash hit in \"Get Lucky.\" The band had perhaps crafted their magnum opus—but did it also represent the conclusion of their epic narrative of the battle between human and machine?\nSongs Discussed\nDaft Punk - Give Life Back to Music\nDaft Punk - Lose Yourself to Dance (feat. Pharrell Williams)\nDaft Punk - Get Lucky (feat. Pharrell Williams and Nile Rodgers)\nDaft Punk - Giorgio by Moroder\nEagles - Hotel California\nDaft Punk - Contact\nThe Sherbs - We Ride Tonight\nDaft Punk - The Prime Time of Your Life\nDaft Punk, Paul Williams - Touch (feat. Paul Williams)\nThomas Bangalter - Mythologies: X. L'Accouchement\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000615840132,
+      "trackName": "Listening 2 Daft Punk: Random Access Memories",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP7542406129.mp3?updated=1686006209",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-06-06T09:00:00Z",
+      "shortDescription": "The robots gain a heart and soul - and self-destruct in the process",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/90/95/27/9095278d-a548-2bf6-8f4e-04ee90e067c7/mza_16940411551581305764.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2219000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7bcb2ba2-3512-11ed-bde1-5f146b2946bc",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2806588335.mp3?updated=1685473427",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/03/b2/0b/03b20b24-b3ae-7e7a-fe91-90d15be9430b/mza_11515827229375601580.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/03/b2/0b/03b20b24-b3ae-7e7a-fe91-90d15be9430b/mza_11515827229375601580.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/listening-2-daft-punk-human-after-all-alive-2007/id934552872?i=1000615042945&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Throughout their legendary career, Daft Punk continued to prove that the more robotic their music became, the more human they sounded. This dichotomy came to a head on their third album, aptly titled Human After All. Where their past two records wired their circuits and gave the robots a voice, on Human After All, Thomas Bangalter and Guy-Manuel de Homem-Christo gave Daft Punk sentience. On Human After All robots rock, but they also question their rigid programming. The record's ensuing tour and resulting live album, Alive 2007, furthered the narrative by ushering in a new age of live electronic performance. The impact of these two records range from the development of EDM to everlasting hits like “Technologic.” On episode three of our Listening 2 Daft Punk series, we take a look at these two records, and how both Alive and Human After All imbued the robots with super intelligence.\n\nSongs Discussed\n\nDaft Punk - Human After All\n\nDaft Punk - The Prime Time of Your Life\n\nDaft Punk - Robot Rock\n\nBreakwater - Release the Beast\n\nDaft Punk - Steam Machine\n\nDaft Punk - The Brainwasher\n\nBlack Sabbath - Iron Man\n\nDaft Punk - Technologic\n\nDaft Punk - Emotion\n\nJohn Williams – Wild Signals\n\nDaft Punk – Touch It / Technologic\n\nDaft Punk – Oh Yeah\n\nDaft Punk – Technologic\n\nBusta Rhymes – Touch It\n\nDaft Punk – Around the World / Harder Better Faster Stronger\n\nDaft Punk – Face to Face / Short Circuit\n\nDaft Punk – Da Funk / Daftendirekt\n\nKanye West – Stronger\n\nKanye West – On Sight\n\nDaft Punk – Human After All / Together / One More Time / Music Sounds Better With You\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000615042945,
+      "trackName": "Listening 2 Daft Punk: Human After All / Alive 2007",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2806588335.mp3?updated=1685473427",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-05-30T18:59:00Z",
+      "shortDescription": "The anti-utopian robots",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/03/b2/0b/03b20b24-b3ae-7e7a-fe91-90d15be9430b/mza_11515827229375601580.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2382000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7bb521b8-3512-11ed-bde1-b77fc0d779ba",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP8872148571.mp3?updated=1684845608",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e9/30/4c/e9304cf1-e4ae-2be8-0ae1-5c83056e817b/mza_15494012784606043456.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e9/30/4c/e9304cf1-e4ae-2be8-0ae1-5c83056e817b/mza_15494012784606043456.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/listening-2-daft-punk-discovery/id934552872?i=1000614132703&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Daft Punk’s first album laid the groundwork for their robot personas, with four to the floor beats, programmed drum machines, and sequenced synthesizers. On their second album Discovery, Daft Punk fully lean into the artificial – singing through robotic vocoders that correspond with their now-iconic robot helmets.\nBut in there is a paradox, explored on episode 2 of Listening to Daft Punk: the more machine the robots become, the more human the music sounds.\n\nSongs Discussed\n\nDaft Punk - One More Time\n\nDaft Punk - Teachers\n\nDaft Punk - Aerodynamic\n\nSister Sledge - Il Macquillage Lady\n\nAC/DC - Thunderstruck\n\nLaurie Anderson - O Superman\n\nDaft Punk - Revolution 909\n\nKraftwerk - Autobahn\n\nKraftwerk - The Robots\n\nEarth, Wind & Fire - Let's Groove\n\nHerbie Hancock - I Thought It Was You\n\nZapp - More Bounce to the Ounce\n\nStevie Wonder - 1-2-3 Sesame Street\n\nCher - Believe\n\nKid Rock - Only God Knows Why\n\nBarry Manilow - Who's Been Sleeping In My Bed\n\nDaft Punk - Superheroes\n\nEdwin Birdsong - Cola Bottle Baby\n\nElectric Light Orchestra - Evil Woman\n\nDaft Punk - Face to Face\n\nDaft Punk - Something About Us\n\nDaft Punk - Voyager\n\nDaft Punk - Veridis Quo\n\nDaft Punk - Superheroes\n\nDaft Punk, Pharrell Williams - LYTD (Vocoder Tests) [feat. Pharrell Williams]\n\nDaft Punk - Digital Love\n\nDaft Punk - Crescendolls\n\nEddie Johns - More Spell On You\n\nGeorge Duke - I Love You More\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000614132703,
+      "trackName": "Listening 2 Daft Punk: Discovery",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP8872148571.mp3?updated=1684845608",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-05-23T11:00:00Z",
+      "shortDescription": "The voice of a robot",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e9/30/4c/e9304cf1-e4ae-2be8-0ae1-5c83056e817b/mza_15494012784606043456.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2211000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7ba36194-3512-11ed-bde1-f74b19a9cbe4",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP5337960782.mp3?updated=1684249517",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/0a/51/80/0a51803d-f7df-f5dc-e04f-a28c18852e69/mza_5928898350555585544.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/0a/51/80/0a51803d-f7df-f5dc-e04f-a28c18852e69/mza_5928898350555585544.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/listening-2-daft-punk-homework/id934552872?i=1000613216205&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Ten years ago, Daft Punk’s Random Access Memories gave life back to music. The world-beating smash “Get Lucky” broke streaming records, forged a retro sound that still dominates the charts, and paved the way for artists like The Weeknd, Dua Lipa and Lizzo to craft their own throwback hits. How did Daft Punk do it? Switched On Pop’s four part-mini series Listening 2: Daft Punk unlocks the sounds, voices, and stories across all four of the group’s studio albums. On their first album, Homework, Daft Punk stretched the boundaries of electronic music and began wiring the circuits that would become their robot alter-egos, asking a fundamental question: where does the human end and the machine begin?\n\nSongs Discussed\n\n​​Daft Punk - Give Life Back to Music\n\nDaft Punk - Get Lucky (feat. Pharrell Williams and Nile Rodgers)\n\nThe Beach Boys - Darlin'\n\nDaft Punk - Around the World\n\nDaft Punk - Harder Better Faster Strong\n\nDaft Punk - Robot Rock\n\nDaft Punk - Game of Love\n\nDaft Punk - Da Funk\n\nDaft Punk - Teachers\n\nBlack Box - Ride on Time\n\nDaft Punk - Daftendirekt\n\nDaft Punk - Fresh\n\nDaft Punk - High Fidelity\n\nDaft Punk - Oh Yeah\n\nDaft Punk - Phoenix\n\nDaft Punk - Rollin' & Scratchin'\n\nDaft Punk - Rock'n Roll\n\nDaft Punk - Burnin'\n\nKraftwerk - The Robots\n\nVangelis - Main Titles\n\nBrad Fiedel - Main Title - The Terminator\n\nBen Salisbury, Geoff Barrow - The Turing Test\n\nDaft Punk - TRON Legacy (End Titles)\n\nDaft Punk - Indo Silver Club\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000613216205,
+      "trackName": "Listening 2 Daft Punk: Homework",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP5337960782.mp3?updated=1684249517",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-05-16T10:50:00Z",
+      "shortDescription": "Soldering the Robots' synthesized circuits",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/0a/51/80/0a51803d-f7df-f5dc-e04f-a28c18852e69/mza_5928898350555585544.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2265000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b90c408-3512-11ed-bde1-978b7faa5d71",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP4820242588.mp3?updated=1683644246",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/37/94/e9/3794e992-460f-d7d0-1c16-4fdadea4d868/mza_3039695216155091144.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/37/94/e9/3794e992-460f-d7d0-1c16-4fdadea4d868/mza_3039695216155091144.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/the-jonas-brothers-yacht-rock-revival/id934552872?i=1000612294290&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "After nearly two decades as a band the Jonas Brothers are staking their claim to a magnum opus by calling their next album, quite simply, The Album (out May 12). The project follows the success of their 2019 comeback project Happiness Begins — which blended polished pop sounds with ‘70s funk breaks and produced the No. 1 single “Sucker” — with a focus on the smooth sounds of yacht rock. Switched On pop co-host Charlie Harding spoke with Nick, Joe and Kevin Jonas in March 2023, during their five night broadway run, in anticipation for the release of The Album.  \n\nSongs Discussed\n\nJonas Brothers - Wings, Waffle House, Montana Sky, Summer Baby, Before the Storm\n\nDaryl Hall & John Oates - She's Gone, Wings\n\nKenny Loggins - Meet Me Half Way\n\nSteely Dan - Reelin' In The Years\n\nStevie Wonder - Higher Ground\n\nMichael Jackson - The Way You Make Me Feel, Leave Me Alone\n\nThe Doobie Brothers - Takin' It to the Streets, Minute By Minute\n\nThundercat, Michael McDonald, Kenny Loggins - Show You The Way\n\nMichael McDonald - I Keep Forgettin'\n\nSteve Miller Band - Fly Like An Eagle\n\nEagles - Take It Easy\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000612294290,
+      "trackName": "The Jonas Brothers' Yacht Rock Revival",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP4820242588.mp3?updated=1683644246",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-05-09T13:39:00Z",
+      "shortDescription": "Nick, Joe and Kevin channel Hall & Oates, Steely Dan, and The Doobie Brothers",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/37/94/e9/3794e992-460f-d7d0-1c16-4fdadea4d868/mza_3039695216155091144.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2352000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b7d2d3a-3512-11ed-bde1-1b12c599fc06",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6197771839.mp3?updated=1682998511",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/73/fe/6e73fede-422b-5529-ec81-79bc6358d7ce/mza_9310961523023331890.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/73/fe/6e73fede-422b-5529-ec81-79bc6358d7ce/mza_9310961523023331890.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/from-westeros-techno-to-trance-metal-eurovision-2023/id934552872?i=1000611417983&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "It’s May, and that can only mean one thing: it’s time for the Eurovision Song Contest. This year’s edition of the international-but-primarily-in-Europe competition features a uniquely eclectic group of songs (per usual), from a take on electro-flamenco, to Game of Thrones EDM, to a previous winner’s return to the Eurovision stage. On this episode, Charlie and Nate look at the six songs bookmakers are looking at to lead the pack of this year’s entries.\n\nSongs Discussed:\n\n\nAlessandra – Queen of Kings\n\nDeadmau5 – Right This Second\n\nGabry Ponte, R3HAB, Timmy Trumpet – Call Me \n\nLa Zarra – Évidemment\n\nÉdith Piaf – Non, je ne regrette rien\n\nClaude François – Alexandrie Alexandra\n\nBlanca Paloma – EAEA\n\nTVORCHI – Heart of Steel\n\nKalush Orchesta – Stefania\n\nKäärijä – Cha Cha Cha\n\nKraftwerk – Radioactivity\n\nAlice Deejay – Better Off Alone\n\nMetallica – 72 Seasons\n\nLoreen – Tattoo\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000611417983,
+      "trackName": "From Westeros-techno to trance metal: Eurovision 2023",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6197771839.mp3?updated=1682998511",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-05-02T09:00:00Z",
+      "shortDescription": "It's time for the world's campiest competition: Eurovision Song Contest",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6e/73/fe/6e73fede-422b-5529-ec81-79bc6358d7ce/mza_9310961523023331890.jpg/600x600bb.jpg",
+      "trackTimeMillis": 1714000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b6aa7c8-3512-11ed-bde1-ef4d34125308",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP7778161814.mp3?updated=1682440309",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/dd/2f/2fdd2feb-93b7-6c12-8eb1-1585b4ac52c2/mza_12990336686723571457.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/dd/2f/2fdd2feb-93b7-6c12-8eb1-1585b4ac52c2/mza_12990336686723571457.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/who-killed-the-key-change-in-pop-music/id934552872?i=1000610531726&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "When trouble strikes in music town, there’s one guy who gets the call. That’s me, Joe Treble, forensic musicologist. This week, I've got one of the most shocking cases I've ever worked. Someone killed the key change in pop music, and I’m going to do whatever it takes to find the perpetrator.\nThe key change used to be at large on the Billboard charts. From the 1950s to the 1990s, 20-30% of all number one hits featured one. In Whitney Houston’s “I Wanna Dance With Somebody,\" the key change hits right before the final chorus. The song’s harmonic center shifts up, raising the pitch of the song, challenging the vocalist to hit higher and higher notes, juicing the big finish with excitement and pep. But starting in the 1990s the key change virtually disappeared from the Hot 100. Now, hit songs start and end in the same key, and no one seems to have even noticed. Except for me.\nThis investigation will bring me face to face with a rogue's gallery of suspects and sources: Chris Dalla Riva, music and data specialist; Brandon McFarland, alias 1-O.A.K., producer; Emily King, singer and songwriter. Each interrogation brings me closer to revealing the murderer, but will I be able to handle the terrible truth? Tune in as I tackle the hardest case of my career: the case of the missing key change!\n\nSongs Discussed\nEmily King - Georgia Sleepwalker, Medal, The Way that You Love Me\nYG, Kamaiyah, RJ, Mitch, Ty Dolla $ign - Do Yo Dance (feat. Kamaiyah, RJ, Mitch, Ty Dolla $ign)\nBeyoncé - Love On Top\nBon Jovi - Livin' On A Prayer\nWhitney Houston - I Wanna Dance with Somebody (Who Loves Me)\nFrank Sinatra - Strangers In The Night\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000610531726,
+      "trackName": "Who killed the key change in pop music?",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP7778161814.mp3?updated=1682440309",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-04-25T09:00:00Z",
+      "shortDescription": "A musical whodunit",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/dd/2f/2fdd2feb-93b7-6c12-8eb1-1585b4ac52c2/mza_12990336686723571457.jpg/600x600bb.jpg",
+      "trackTimeMillis": 1987000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b580d8e-3512-11ed-bde1-e7f0dcc00b8d",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6807581673.mp3?updated=1682099892",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/a-i-drake-has-put-music-in-a-tailspin/id934552872?i=1000610099308&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "We have an emergency podcast drop because the biggest and fastest moving story on the internet right now is about a song called “Heart On My Sleeve.” The track sounds like it was made by the producer Metro Boomin featuring Drake and The Weeknd. It might be one of the most consequential songs in music history because it was actually a fake, made with artificial intelligence. The blowback from this song has been enormous and a bit confusing. So host Charlie Harding went on The Vergecast podcast to break down how this song was likely made, and what it might mean for the music industry, the tech industry and all of our intellectual property. \n\n\nListen to the whole episode on The Vergecast\n\n\nRead Alex Cranz's story on Laser Bongs on The Verge\n\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000610099308,
+      "trackName": "A.I. Drake has put music in a tailspin",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP6807581673.mp3?updated=1682099892",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-04-21T14:16:00Z",
+      "shortDescription": "Lawlessness and Laser Bongs with The Vergecast",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/600x600bb.jpg",
+      "trackTimeMillis": 2234000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "5ca3c8e2-e04d-11ed-b32b-ab0c3149d5a3",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3036086010.mp3?updated=1681777869",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c6/f6/57/c6f657e3-6e84-6a9c-c1e4-f40d3e18c5e1/mza_868627494590202203.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c6/f6/57/c6f657e3-6e84-6a9c-c1e4-f40d3e18c5e1/mza_868627494590202203.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/bts-goes-solo-together/id934552872?i=1000609451169&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "The South Korean idol group BTS is one of the biggest musical sensations in history. They're constantly breaking records and they have one of the most dedicated fan bases in the world known as Army. Their hit singles like “Boy With Love,” “Dynamite,” and “Butter” have been discussed on the show in the past for breaking through the US charts. But back in 2022, they decided to take a break from group activities and start releasing solo material because of their obligations to each fulfill mandatory military service in South Korea, precluding them from working together at the same time. Solo projects aren’t new for the group – BTS members have released mixtapes as far back as 2015 and countless solo singles – but this was the first time that BTS had ever announced a prolonged break. This moment, originally presented as a hiatus, has evolved into a whole new musical chapter for the group, with a seemingly endless array of new solo releases. Switched On Pop listens back to one track from each solo effort so far to introduce the casual listener to what is happening in this new era of BTS. Joining the show is Lenika Cruz, senior editor at The Atlantic, who literally wrote the book on BTS, simply called On BTS out on the Atlantic Editions imprint.\n\nSongs Discussed:\n\nj-hope, J. Cole - on the street\n\nJimin - Like Crazy\n\nRM, Youjeen - Wild Flower\n\nAgust D - People Pt.2\n\nAgust D - People\n\nJung Kook - Dreamers\n\nJIN - The Astronaut\n\nBTS - Singularity, Inner Child\n\nColdplay, BTS - My Universe\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000609451169,
+      "trackName": "BTS goes solo together",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3036086010.mp3?updated=1681777869",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-04-18T09:00:00Z",
+      "shortDescription": "",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c6/f6/57/c6f657e3-6e84-6a9c-c1e4-f40d3e18c5e1/mza_868627494590202203.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2940000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b452ca0-3512-11ed-bde1-77534e550098",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1705580466.mp3?updated=1681179151",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b1/93/bf/b193bfcc-45ca-fda4-7143-bc4c1b250a72/mza_9550381256401094036.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b1/93/bf/b193bfcc-45ca-fda4-7143-bc4c1b250a72/mza_9550381256401094036.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/this-generations-caroline-polachek/id934552872?i=1000608319666&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "From the first seconds of her latest album Desire, I Want to Turn Into You, Caroline Polachek asserts that she is truly a once-in-a-generation artist. From her work in the indie band Chairlift to years of behind-the-scenes songwriting, she has worked hard over years to build a stellar music career – culminating in the pop opus Desire, already one of the best rated albums of 2023. On this episode of Switched on Pop, we look at Polachek’s career thus far, and talk to her about the intricacies of her latest.\n\nSongs Discussed\n\nCaroline Polachek - Desire, I Want To Turn Into You\n\nCaroline Polachek - So Hot You’re Hurting My Feelings\n\nChairlift - Bruises\n\nRamona Lisa - Dominic\n\nBeyoncé - No Angel\n\nDanny L Harle, Caroline Polachek - Ashes of Love\n\nCharli XCX, Caroline Polachek - Tears\n\nCEP - Lilian’s Pavilion\n\nCaroline Polachek - Pretty in Possible\n\nSuzanne Vega - Tom’s Diner DNA remix\n\nCaroline Polachek - Welcome to my Island\n\nCaroline Polachek - Bunny Is A Rider\n\nCaroline Polachek - Smoke\n\nCaroline Polachek - Crude Drawing of An Angel\n\nCaroline Polachek - Butterfly Net\n\nCaroline Polachek - Sunset \n\nCaroline Polachek - Fly To You\n\nCaroline Polachek - Hopedrunk Ever Asking\n\nCaroline Polachek - Billions\n\nCaroline Polachek - Blood And Butter\n\nCaroline Polachek - Butterfly Net\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000608319666,
+      "trackName": "This Generation's Caroline Polachek",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1705580466.mp3?updated=1681179151",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-04-11T07:00:00Z",
+      "shortDescription": "For Caroline Polachek, \"desire\" takes many abstract forms on her latest record",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/b1/93/bf/b193bfcc-45ca-fda4-7143-bc4c1b250a72/mza_9550381256401094036.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2632000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b320076-3512-11ed-bde1-0f04da632ecd",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP9770237637.mp3?updated=1680567637",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6b/e7/5f/6be75f93-66c4-ebda-e3a6-6e05e7ebbfd3/mza_7195106294201722181.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6b/e7/5f/6be75f93-66c4-ebda-e3a6-6e05e7ebbfd3/mza_7195106294201722181.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/the-shakira-conspiracy/id934552872?i=1000607308037&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Shakira is back on the Billboard Hot 100 – thanks to the help of Argentinian producer Bizarrap. Together, their song “Shakira: BZRP Music Sessions, Vol. 53,” is layered with musical and lyrical references, from the callbacks to “She Wolf” to the multiple beat switches. It also works to play into something larger: something akin to a pop music conspiracy. On this episode of Switched On Pop, we take a closer look at Shakira’s latest, and how it’s indicative of a larger metatextual shift in pop music. \n\nSongs Discussed:\n\nShakira, Bizarrap – Shakira: BZRP Music Sessions, Vol. 53\n\nShakira – Vuelve\n\nAlanis Morrisette – Not The Doctor\n\nShakira – Whenever, Wherever\n\nShakira, Alejandro Sanz – La Tortura\n\nShakira, Wyclef Jean – Hips Don’t Lie\n\nShakira – She Wolf\n\nThe Weeknd – Blinding Lights\n\nGiorgio Moroder – Palm Springs Drive\n\nLMFAO – Party Rock Anthem\n\nPascal Letoublon – Friendships\n\nBeyoncé – Sorry\n\nTaylor Swift – All Too Well\n\nOlivia Rodrigo – Driver’s License\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000607308037,
+      "trackName": "The Shakira Conspiracy",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP9770237637.mp3?updated=1680567637",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-04-04T09:00:00Z",
+      "shortDescription": "Shakira's new song embodies a conspiratorial songwriting seen at the center of this decade's biggest hits",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6b/e7/5f/6be75f93-66c4-ebda-e3a6-6e05e7ebbfd3/mza_7195106294201722181.jpg/600x600bb.jpg",
+      "trackTimeMillis": 1865000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b1df5f4-3512-11ed-bde1-97a1f4e10346",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3161275154.mp3?updated=1680022697",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/26/e4/84/26e48423-971f-9bba-dd7c-35c5a4c9aa86/mza_1581594388764020238.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/26/e4/84/26e48423-971f-9bba-dd7c-35c5a4c9aa86/mza_1581594388764020238.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/reinventing-bach/id934552872?i=1000606232609&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "If you’ve ever learned classical piano, you probably tried to play one of Bach’s Inventions. The composer wrote fifteen pieces containing the most important fifteen keys in order to teach his son the fundamentals of piano and composition. Today, they remain some of the most popular pieces of piano music. Acclaimed jazz pianist Dan Tepfer recently revisited his childhood music books seeing them in a way he’d never realized as a student: the Inventions are much more than novice piano works.\n\nFor Tepfer, each of the Inventions not only highlight masterful command over harmony and counterpoint, but also contain moving character arcs that resemble the hero’s journey. A character is introduced at home in place of safety in act I. And then they are thrust into chaos and must overcome unsurmountable challenges in Act II. Finally, in Act III, our hero overcomes their final battle and returns home transformed by the journey. Once Tepfer heard this character arc, he started to apply it to his own free improv.\n\nThrough studying Bach, Tepfer conceived a new album: Inventions / Reinventions. In this project Tepfer fills in the missing keys from the Bach to complete all twenty four keys (there are twelve major and twelve minor keys) while updating the music with modern improvisation. In this conversation Tepfer walks co-host Charlie Harding through his process of playing Bach and applying it to jazz improv.\n\nListen to Dan Tepfer’s Inventions / Reinventions on StorySound Records\nListen to Into It with Sam Sanders on Fair Use\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000606232609,
+      "trackName": "Reinventing Bach",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3161275154.mp3?updated=1680022697",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-03-28T06:00:00Z",
+      "shortDescription": "Dan Tepfer connects Bach to free improv",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts116/v4/26/e4/84/26e48423-971f-9bba-dd7c-35c5a4c9aa86/mza_1581594388764020238.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2400000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7b070f42-3512-11ed-bde1-cfd32fd2fc9a",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP5242967537.mp3?updated=1679511296",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/23/68/1c/23681c49-cb9e-1ebe-014f-020a7ddb9d32/mza_7543608543191588696.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/23/68/1c/23681c49-cb9e-1ebe-014f-020a7ddb9d32/mza_7543608543191588696.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/100-gecs-and-the-new-sound-of-hyperpop/id934552872?i=1000605133570&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Everyone will describe the music of 100 gecs differently. To some, Dylan Brady and Laura Les make deeply satisfying earworms, tracks able to scratch the itches that occupy the deepest memory-holed corners of the brain. To others, though, their music is an \"anarchic assault on the ears,” a quilt of all of the genres historically ridiculed in the popular canon: nu-metal, scuzz-rock, ska and 90’s pop punk are all fair game in the world of gecs.\n\nOn their latest record, aptly titled 10000 gecs, Brady and Les double down on the crunchy distortion and harmonics, creating tracks equally influenced by Primus and Eddie Van Halen as they are by their hyperpop contemporaries. The album reflects a Internet-core approach to music as a whole, shedding notions of “good” and “bad” music in favor of catchy melodies and intricate song construction. \n\nOn this episode on Switched On Pop, we dig deep into the ethos of 100 gecs, and producer Reanna Cruz talks to the duo themselves about their eclectic sophomore record.\n\nSongs discussed: \n\n\n100 gecs – Hollywood Baby\n\n100 gecs – Billy Knows Jamie\n\n100 gecs – stupid horse\n\n100 gecs – 745 sticky\n\n100 gecs – Doritos & Fritos\n\nPrimus – Jerry Was A Racecar Driver\n\nWeen – Bananas and Blow\n\nLimp Bizkit – My Generation\n\nGorillaz – Dirty Harry\n\nFuture – I Been Drinking\n\nJ-Kwon – Tipsy\n\nJustin Timberlake – Summer Love\n\nViolent Femmes – Added Up\n\n100 gecs – Dumbest Girl Alive\n\nTHX Deep Note\n\nCypress Hill – Insane in the Membrane\n\n100 gecs – The Most Wanted Person in the United States\n\n100 gecs – Frog on the Floor\n\nAlan Jackson – Chattahoochee\n\nLimp Bizkit – Dad Vibes\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000605133570,
+      "trackName": "100 gecs and the new sound of hyperpop",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP5242967537.mp3?updated=1679511296",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-03-21T09:00:00Z",
+      "shortDescription": "The duo's latest record is a sum of their influences: Primus, Future, and Justin Timberlake included",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/23/68/1c/23681c49-cb9e-1ebe-014f-020a7ddb9d32/mza_7543608543191588696.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2358000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7af070e8-3512-11ed-bde1-4be999fd06ca",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP4159982263.mp3?updated=1679069411",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7d/ed/6d/7ded6d7a-251a-fbf6-50fe-4fda6858f105/mza_2817044317282439616.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7d/ed/6d/7ded6d7a-251a-fbf6-50fe-4fda6858f105/mza_2817044317282439616.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/switches-brew/id934552872?i=1000604619132&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Every week the Switched On Pop team gets together and everybody shares one song they’re loving right now. It is one of our favorite conversations each week because we hear music that is new and old, on and off the charts. We’re sharing that conversation with you as a new format we’re calling Switches Brew alongside friend of the show Brittany Luse, host of NPR's It's Been A Minute\n\nListen to Brittany Luse on NPR’s It’s Been A Minute: Web, Apple, Spotify\n\nSongs Discussed\n\nLittle Freddie King - Messin' Around tha House\n\nDe La Soul - Tread Water\n\nNick Hakim - Qadir\n\nLana Del Rey - Born to Die (Marcus Intalex Remix) on Bandcamp\n\n\nMadison Cunningham - Hospital (One Man Down) (feat. Remi Wolf)\n\nRemi Wolf - Down the Line\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000604619132,
+      "trackName": "Switches Brew",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP4159982263.mp3?updated=1679069411",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-03-17T09:00:00Z",
+      "shortDescription": "Switched On Pop's top listening picks",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/7d/ed/6d/7ded6d7a-251a-fbf6-50fe-4fda6858f105/mza_2817044317282439616.jpg/600x600bb.jpg",
+      "trackTimeMillis": 1459000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "537f3f18-af05-11ed-a35a-0b58f8e659ed",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP8849152163.mp3?updated=1678804783",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/fd/2a/8a/fd2a8a7f-38f7-bbe4-37e3-08776c70dcd5/mza_1459111568259888323.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/fd/2a/8a/fd2a8a7f-38f7-bbe4-37e3-08776c70dcd5/mza_1459111568259888323.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/modern-classics-seal-kiss-from-a-rose/id934552872?i=1000604146212&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "“Kiss From a Rose” is one of the most unusual number one hits of all time. Seal’s song can’t decide if it’s in minor or major, it uses an old-fashioned waltz rhythm, and its lush orchestration and elaborate vocal harmonies support mysterious lyrics about a “greying tower alone on the sea.” Seal himself wasn’t sure about the song, and needed some convincing to include the composition on his 1994 album SEAL II. But once director Joel Schumacher decided to use the track for the end credits of the film Batman Forever, the song went global and has remained a cultural phenomenon ever since. Ahead of his upcoming 30th anniversary tour for the albums SEAL I and SEAL II, we speak with the singer and songwriter about the enduring appeal of “Kiss From A Rose.”\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000604146212,
+      "trackName": "Modern Classics: Seal - Kiss From a Rose",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP8849152163.mp3?updated=1678804783",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-03-14T14:36:25Z",
+      "shortDescription": "Why Seal's masterstroke resonates almost thirty years later",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/fd/2a/8a/fd2a8a7f-38f7-bbe4-37e3-08776c70dcd5/mza_1459111568259888323.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2232000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7adc4e10-3512-11ed-bde1-f7cadb73b6ce",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1561055679.mp3?updated=1678211134",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c4/2e/58/c42e583d-5528-d6ca-e1b4-682b2d059b1d/mza_2674399637546100936.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c4/2e/58/c42e583d-5528-d6ca-e1b4-682b2d059b1d/mza_2674399637546100936.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/how-john-denver-got-huge-in-asia/id934552872?i=1000603175013&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "“Take Me Home, Country Roads” is a song about West Virginia, but its message of homecoming has resonance far beyond Appalachia. Songwriter and producer Ian Fitchuk found this out when he was requested to perform Denver’s music at a music festival in Tibet. Fitchuk discovered that Denver has a huge following in East and South East Asia, where Denver toured multiple times from the 70s through the 90s. Denver’s songs first came to the region through the US Armed Forces Network radio as well as a diplomatic performance for China’s leader Deng Xiaoping at the Kennedy Center in 1979. Denver performed alongside the Harlem Globetrotters and the Joffrey ballet, and he left such an impression, the show led to an invitation to be one of the first western musicians to tour China. To better understand Denver’s meaning in the region, Switched On Pop co-host Charlie Harding speaks with Ian Fitchuk about his performance and interviews journalist Jason Jeung who wrote about “Country Roads” in The Atlantic.\n\nSongs Discussed\n\nJohn Denver - Take Me Home, Country Roads\n\nKacey Musgraves - Oh, What A World\n\nThe East Is Red\n\nJohn Denver - Rocky Mountain High\n\nCreedence Clearwater Revival - Fortunate Son\n\nJames Taylor - Carolina in My Mind\n\nCarpenters - (They Long To Be) Close To You\n\nJohn Denver - Thank God I'm a Country Boy\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000603175013,
+      "trackName": "How John Denver got huge in Asia",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1561055679.mp3?updated=1678211134",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-03-07T17:38:00Z",
+      "shortDescription": "The globalization of \"Country Roads\"",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c4/2e/58/c42e583d-5528-d6ca-e1b4-682b2d059b1d/mza_2674399637546100936.jpg/600x600bb.jpg",
+      "trackTimeMillis": 1994000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7ac77a76-3512-11ed-bde1-e3eb3a9a3e98",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3274402538.mp3?updated=1677552203",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/3a/1d/dd/3a1dddfe-67f7-05a5-cf8b-f2707339ecbd/mza_16529336070516262227.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/3a/1d/dd/3a1dddfe-67f7-05a5-cf8b-f2707339ecbd/mza_16529336070516262227.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/chartbreakers-jersey-club-complicated-country-and-50s/id934552872?i=1000602040977&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Currently on Billboard’s hot 100 there is an unexpected UK Garage / Jersey House mashup, a disgraced country star making a questionable comeback, and an out of nowhere fifties ballad all jockeying for their moment on the charts. This week, we take a listen to the FEBRUARY 25, 2023 Hot 100, looking for triumphs, fumbles, and oddities.\n\nSongs Discussed\n\nPinkPantheress, Ice Spice - Boy's a liar Pt. 2\n\nIce Spice - Munch (Feelin’ U)\n\nDrake - Currents\n\nLil Uzi Vert - Just Wanna Rock\n\nSweet Female Attitude - Flowers - Sunship Edit\n\nTodd Edwards - Wishing I Were Home\n\nIce Spice - In Ha Mood\n\nMorgan Wallen - You Proof\n\nMorgan Wallen - Last Night\n\nTyler Childers - Way of the Triune God - Jubilee Version\n\nMac DeMarco - Heart To Heart\n\nMiguel - Sure Thing\n\nMetro Boomin, The Weeknd, 21 Savage - Creepin' (with The Weeknd & 21 Savage)\n\nMario Winans - I Don't Wanna Know\n\nFugees, Ms. Lauryn Hill, Wyclef Jean, Pras - Ready or Not\n\nEnya - Boadicea\n\nStephen Sanchez - Until I Found You\n\nThe Everly Brothers - Let It Be Me\n\nRitchie Valens - We Belong Together\n\nThe Righteous Brothers - Unchained Melody\n\nPatsy Cline, The Jordanaires - Crazy\n\nRay Charles - Georgia on My Mind - Original Master Recording\n\nThe Beatles - In My Life - Remastered 2009\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000602040977,
+      "trackName": "Chartbreakers: Jersey Club, Complicated Country, and 50s Crooners",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3274402538.mp3?updated=1677552203",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-02-28T10:00:00Z",
+      "shortDescription": "The Hot 100s triumphs, fumbles, and oddities",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/3a/1d/dd/3a1dddfe-67f7-05a5-cf8b-f2707339ecbd/mza_16529336070516262227.jpg/600x600bb.jpg",
+      "trackTimeMillis": 1834000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7ab380ca-3512-11ed-bde1-fb1f4a20b5b6",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1841724358.mp3?updated=1677046177",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/7e/44/cd7e4460-aa50-d9b7-f861-66e55153f7fa/mza_17508330946001630827.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/7e/44/cd7e4460-aa50-d9b7-f861-66e55153f7fa/mza_17508330946001630827.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/five-years-later-the-legacy-of-nipsey-hussles-victory-lap/id934552872?i=1000601076777&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "Five years ago, Los Angeles rapper Nipsey Hussle released Victory Lap, his only full length album. It was the high point of a career stretching back to the mid 2000s, when Hussle started releasing mixtapes on his own record label — mixtapes that brought him respect from artists like Jay-Z and Kendrick Lamar, but were not widely heard. \nVictory Lap brought him both the critical acclaim and commercial success he deserved — It hit #2 on the Billboard 200, and was nominated for a Grammy for Best Rap Album. But only a little over a year after its release, Hussle was shot to death outside his clothing store and community center in Crenshaw. In some ways, Hussle’s tragic end has overshadowed his incredible life as a musician and community activist.\nIn this conversation with Justin Tinsley, host of the podcast King of Crenshaw, we listen deeply to Victory Lap to hear Nipsey’s identity as an artist and consider the legacy of his debut album on its 5th anniversary.\nSongs Discussed\nNipsey Hussle - Victory Lap, Dedication, Hussle and Motivate, Last Time That I Checc'd, Real Big\nArctic Monkeys - Knee Socks\nJay-Z - Hard Knock Life\nSnoop Dogg - Y'all Gone Miss Me\nMore\nListen to the King of Crenshaw podcast.\nCheck out more of Justin's work\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000601076777,
+      "trackName": "Five years later, the legacy of Nipsey Hussle's \"Victory Lap\"",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP1841724358.mp3?updated=1677046177",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-02-22T10:00:00Z",
+      "shortDescription": "Exploring the late rapper's impact with author Justin Tinsley",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/cd/7e/44/cd7e4460-aa50-d9b7-f861-66e55153f7fa/mza_17508330946001630827.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2137000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7aa0031a-3512-11ed-bde1-df7ffef52181",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3791440698.mp3?updated=1676334661",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/ea/ab/2feaab92-4a40-a768-67ba-68a0e5d463c8/mza_13470481831634514996.jpg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/ea/ab/2feaab92-4a40-a768-67ba-68a0e5d463c8/mza_13470481831634514996.jpg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/flowers-and-the-art-of-the-response-song/id934552872?i=1000599516440&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "“Flowers” by Miley Cyrus is spending another week on top of the Billboard 100 – quite fitting for Valentine’s Day.\n\nThe disco-country track has gotten people talking for a few reasons, but most notably, Cyrus invokes Bruno Mars’ classic “When I Was Your Man” in both lyrical and melodic allusions. The connection between the two songs is not one of interpolation, but rather, Miley is responding to Bruno’s hit through her own words: making “Flowers” an answer song. \n\nThis episode of Switched On Pop, we take a deeper look at “Flowers” and how it fits in the canon of response songs throughout history, from classics like “This Land is Your Land” to Nicki Minaj’s “Anaconda.” \n\nSongs Discussed: \n\nMiley Cyrus – Flowers\n\nKacey Musgraves – High Horse\n\nGloria Gaynor – I Will Survive\n\nDua Lipa – New Rules\n\nBruno Mars – When I Was Your Man\n\nEd Sheeran – Shape of You\n\nTLC – No Scrubs\n\nKaty Perry, Snoop Dogg – California Girls\n\nJAY-Z, Alicia Keys – Empire State of Mind\n\nBig Mama Thornton – Hound Dog\n\nRufus Thomas – Bear Cat\n\nHank Thompson – The Wild Side of Life\n\nKitty Wells – It Wasn’t God Who Made Honky Tonk Angels\n\nRay Charles – Hit the Road, Jack\n\nNina Simone – Come on Back Jack\n\nThe Chantels – Well, I Told You\n\nUTFO – Roxanne, Roxanne\n\nRoxanne Shanté – Roxanne’s Revenge\n\nUTFO – The Real Roxanne\n\nNew Edition – Candy Girl\n\nThe Jackson 5 – ABC\n\nSir Mix-A-Lot – Baby Got Back\n\nNicki Minaj – Anaconda\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000599516440,
+      "trackName": "“Flowers” and the art of the response song",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP3791440698.mp3?updated=1676334661",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-02-14T10:00:00Z",
+      "shortDescription": "How Miley Cyrus' hit stacks up next to Bruno Mars and the answer song canon",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/2f/ea/ab/2feaab92-4a40-a768-67ba-68a0e5d463c8/mza_13470481831634514996.jpg/600x600bb.jpg",
+      "trackTimeMillis": 2387000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "7a89e7ec-3512-11ed-bde1-df9a3644e278",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    },
+    {
+      "country": "USA",
+      "episodeUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2521403977.mp3?updated=1676238581",
+      "episodeFileExtension": "mp3",
+      "artworkUrl160": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/160x160bb.jpg",
+      "episodeContentType": "audio",
+      "artworkUrl60": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/60x60bb.jpg",
+      "artistViewUrl": "https://itunes.apple.com/us/artist/vulture/1536636674?mt=2&uo=4",
+      "trackViewUrl": "https://podcasts.apple.com/us/podcast/icymi-rihanna-party/id934552872?i=1000599242718&uo=4",
+      "closedCaptioning": "none",
+      "collectionId": 934552872,
+      "collectionName": "Switched on Pop",
+      "artistIds": [
+        1536636674
+      ],
+      "description": "“Rihanna Is The 21st Century’s Most Influential Musician” according to NPR. Millions and millions of fans the world over agree, and while we try to avoid overt expressions of pop favoritism, we think they’ve got a strong case. It’s for that reason and a dozen others that we were thrilled to welcome Gina Delvac of the hit podcast Call Your Girlfriend back to the show to discuss the legendary career of one Ms. Robyn Rihanna Fenty. As we all await her ninth studio album (R9), join us for a virtual* blunt-smoke-laced tour through the hit songs that defined her early sound, and a delectable deep dive into her most recent album, ANTI.\nMORE CONTENT\nCheck out Jenny Gathright’s NPR article “Rihanna Is The 21st Century’s Most Influential Musician.”\nAnd find even more work from our wonderful contributors this week down below:\n\nGina\n\nIvie\n\nZoe\n\nCate\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+      "trackId": 1000599242718,
+      "trackName": "ICYMI Rihanna Party!",
+      "previewUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP2521403977.mp3?updated=1676238581",
+      "feedUrl": "https://feeds.megaphone.fm/switchedonpop",
+      "releaseDate": "2023-02-12T21:45:25Z",
+      "shortDescription": "While we wait for R9",
+      "collectionViewUrl": "https://itunes.apple.com/us/podcast/switched-on-pop/id934552872?mt=2&uo=4",
+      "artworkUrl600": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/6e/7c/17/6e7c170e-ecd6-a572-a851-6b0a02a168c5/mza_7324103647670443393.jpeg/600x600bb.jpg",
+      "trackTimeMillis": 3266000,
+      "genres": [
+        {
+          "name": "Music Commentary",
+          "id": "1523"
+        }
+      ],
+      "episodeGuid": "08075f52-ab0e-11ed-8090-1f7a577bff29",
+      "kind": "podcast-episode",
+      "wrapperType": "podcastEpisode"
+    }
+  ]
+}

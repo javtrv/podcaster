@@ -5,10 +5,14 @@ header{
   font-weight: 600;
   display:flex;
   justify-content: space-between;
-  align-items: center;
-  padding: 1rem; 
-  margin-top: 20px;
+  align-items: flex-start;
+  padding: 1rem;
   border-bottom: 1px solid #a5a9ff;
+  position: fixed;
+  z-index: 100;
+  height: 75px;
+  background-color: #fff;
+  width: 100%;
 }
 
 .search{
@@ -17,6 +21,15 @@ header{
   align-items: center;
   padding: 1rem;
   flex-direction: row;
+  position: fixed;
+  height: 75px;
+  background-color: #fff;
+  // border: 1px solid red;
+  margin-top:75px;
+  z-index: 100;
+  width: 1320px;
+  padding:1rem;
+  // border:1px solid red;
   .form-control{
     width: 300px;
     margin-left: 1rem;
@@ -24,12 +37,13 @@ header{
 }
 
 .podcasts-grid{
-  margin-top: 5rem;
+  margin-top: 15rem;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1rem;
   row-gap: 6rem;
   width: 100%;
+  min-height: 68vh;
 }
 
 .truncate{

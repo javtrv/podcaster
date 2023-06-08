@@ -7,7 +7,7 @@ interface PodcastGridProps {
 
 const PodcastGrid = ({ podcastList }: PodcastGridProps) => {
   return (
-    <section className='podcasts-grid'>
+    <section className='podcast-grid'>
       {podcastList.length === 0 && <h2>No podcasts found</h2>}
       {podcastList.map((podcast: Podcast) => {
         return (

@@ -1,6 +1,7 @@
 import { createBrowserRouter } from 'react-router-dom'
 import Header from './components/Header'
 import Home from './pages/Home'
+import PodcastDetail from './pages/PodcastDetail'
 
 export const router = createBrowserRouter([
   {
@@ -12,7 +13,7 @@ export const router = createBrowserRouter([
       },
       {
         path: '/podcast/:id',
-        element: <h1>Podcast</h1>
+        element: <PodcastDetail/>
       },
       {
         path: '/podcast/:id/episode/:episodeId',

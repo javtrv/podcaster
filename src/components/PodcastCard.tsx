@@ -1,13 +1,20 @@
 import Card from 'react-bootstrap/Card'
+import {type Podcast} from '../types.d'
 
-const PodcastCard = () => {
+interface PodcastCardProps {
+  podcast: Podcast
+}
+
+const PodcastCard = ({podcast}: PodcastCardProps) => {
+  if (!podcast) return null
+  
   return (
     <Card className='podcasts-card'>
-      <Card.Img variant="top" src="https://img.freepik.com/vector-premium/icono-perfil-avatar_188544-4755.jpg?w=2000" />
+      <Card.Img variant="top" src={podcast.image} />
       <Card.Body>
-        <Card.Title className='truncate'>Podcast Name</Card.Title>
+        <Card.Title className='truncate'>{podcast.title}</Card.Title>
         <Card.Text className='truncate'>
-          Author: Author Name
+          Author: {podcast.author}
         </Card.Text>
       </Card.Body>
     </Card>

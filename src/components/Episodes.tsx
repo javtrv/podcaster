@@ -1,7 +1,13 @@
 import Card from 'react-bootstrap/Card'
 import EpisodesTable from './EpisodesTable'
+import { type Episode } from '../types'
 
-const Episodes = () => {
+interface EpisodesProps {
+  episodes: Episode[] | undefined
+}
+
+const Episodes = ({ episodes }: EpisodesProps) => {
+  console.log('🚀 ~ file: Episodes.tsx:10 ~ Episodes ~ episodes:', episodes)
   return (
     <div className='episodes'>
       <Card className='episodes-quantity'>
@@ -13,9 +19,7 @@ const Episodes = () => {
       </Card>
       <Card className='episodes-table'>
         <Card.Body>
-          <Card.Text>
             <EpisodesTable/>
-          </Card.Text>
         </Card.Body>
       </Card>
     </div>

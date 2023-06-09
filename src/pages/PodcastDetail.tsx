@@ -3,10 +3,11 @@ import Col from 'react-bootstrap/Col'
 import { useParams } from 'react-router-dom'
 import PodcastInfo from '../components/PodcastInfo'
 import Episodes from '../components/Episodes'
+import { usePodcast } from '../hooks/usePodcast'
 
 const PodcastDetail = () => {
   const { id } = useParams()
-  console.log('🚀 ~ file: PodcastDetail.tsx:5 ~ PodcastDetail ~ id:', id)
+  const { podcastEpisodes } = usePodcast(id)
 
   return (
     <section className='podcast-detail'>
@@ -15,7 +16,7 @@ const PodcastDetail = () => {
           <PodcastInfo />
         </Col>
         <Col md={8}>
-          <Episodes />
+          <Episodes episodes={podcastEpisodes} />
         </Col>
       </Row>
     </section>

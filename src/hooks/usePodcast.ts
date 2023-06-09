@@ -1,49 +1,16 @@
-import { useEffect, useState, useRef } from 'react'
-import { type Podcast } from '../types.d'
-import { getPodcast } from '../services/getPodcast'
-import { scrollToTop, hasPassed24Hours, savePodcastList, getPodcastList, getLastUpdate } from '../helpers/helpers'
+import { useEffect, useState } from 'react'
+// import { hasPassed24Hours } from '../helpers/helpers'
+import { type Episode } from '../types'
+// import podcastData from '../data/podcast.json'
+import { getPodcastDetailService } from '../services/getPodcastDetailService'
 
-export const usePodcast = () => {
-  const [filteredPodcastList, setFilteredPodcastList] = useState<Podcast[]>([])
-  const originalPodcastList = useRef<Podcast[]>([])
-
-  const refreshPodcastList = () => {
-    getPodcast().then((res) => {
-      if (res === null) return
-      setFilteredPodcastList(res)
-      originalPodcastList.current = res
-      savePodcastList(res)
-    }).catch((err: any) => {
-      console.error(err)
-    })
-  }
-
-  const filterPodcastList = (value: string) => {
-    scrollToTop()
-    if (value === '') {
-      setFilteredPodcastList(originalPodcastList.current)
-      return
-    }
-    const filteredPodcastListAux = originalPodcastList.current.filter((podcast: Podcast) => {
-      return podcast.title.toLowerCase().includes(value.toLowerCase()) ||
-        podcast.author.toLowerCase().includes(value.toLowerCase())
-    })
-    setFilteredPodcastList(filteredPodcastListAux)
-  }
+export const usePodcast = (podcastId: string | undefined) => {
+  const [podcastEpisodes, setPodcastEpisodes] = useState<Episode[]>()
 
   useEffect(() => {
-    const lastUpdate = getLastUpdate()
-    if (hasPassed24Hours((lastUpdate))) {
-      refreshPodcastList()
-    } else {
-      const podcastList = getPodcastList()
-      setFilteredPodcastList(podcastList)
-      originalPodcastList.current = podcastList
-    }
-  }, [])
+    // console.log(getPodcastDetailService())
+    setPodcastEpisodes(getPodcastDetailService())
+  }, [podcastId])
 
-  return {
-    podcastList: filteredPodcastList,
-    filterPodcastList
-  }
+  return { podcastEpisodes }
 }

@@ -7,7 +7,7 @@ interface EpisodesProps {
 }
 
 const Episodes = ({ episodes }: EpisodesProps) => {
-  console.log('🚀 ~ file: Episodes.tsx:10 ~ Episodes ~ episodes:', episodes)
+  // console.log('🚀 ~ file: Episodes.tsx:10 ~ Episodes ~ episodes:', episodes)
   return (
     <div className='episodes'>
       <Card className='episodes-quantity'>

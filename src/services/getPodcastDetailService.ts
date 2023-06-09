@@ -19,7 +19,8 @@ import { type Episode } from '../types.d'
 // }
 
 export const getPodcastDetailService = (): Episode[] => {
-  const episodesList: Episode[] = podcastData[0].results.map((episode): Episode => ({
+  const [first, ...rest] = podcastData[0].results
+  const episodesList: Episode[] = rest.map((episode): Episode => ({
     id: episode.trackId,
     name: episode.trackName,
     date: episode.releaseDate,

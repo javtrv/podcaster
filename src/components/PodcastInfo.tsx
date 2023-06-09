@@ -1,18 +1,21 @@
 import Card from 'react-bootstrap/Card'
-
-const PodcastInfo = () => {
+import { type Podcast } from '../types'
+interface PodcastInfoProps {
+  podcast: Podcast | undefined
+}
+const PodcastInfo = ({ podcast }: PodcastInfoProps) => {
+  if (podcast === undefined) return
   return (
     <Card className='podcast-info'>
-    <Card.Img variant="top" src={'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_640.png'} />
+    <Card.Img variant="top" src={podcast.image} />
     <Card.Body>
       <Card.Title>
-        Title<br/>
-        by Author
+        {podcast.title}<br/>
+        by {podcast.author}
       </Card.Title>
       <Card.Text>
         <b>Description:</b><br/>
-        <i>Lorem ipsum dolor sit amet consectetur
-        adipisicing elit. Vitae laudantium suscipit rerume</i>
+        <i>{podcast.summary}</i>
       </Card.Text>
     </Card.Body>
   </Card>

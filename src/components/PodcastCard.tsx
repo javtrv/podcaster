@@ -1,6 +1,7 @@
 import Card from 'react-bootstrap/Card'
 import { type Podcast } from '../types.d'
 import { useNavigate } from 'react-router-dom'
+import { setViewedPodcast } from '../helpers/helpers'
 
 interface PodcastCardProps {
   podcast: Podcast
@@ -12,6 +13,7 @@ const PodcastCard = ({ podcast }: PodcastCardProps) => {
   const navigate = useNavigate()
   const handleClickCard = () => {
     navigate(`/podcast/${podcast.id}`)
+    setViewedPodcast(podcast)
   }
   return (
     <Card className='podcast-card' onClick={handleClickCard}>

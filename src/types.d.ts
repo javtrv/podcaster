@@ -4,6 +4,8 @@ export interface Podcast {
   author: string
   image: string
   summary: string
+  lastUpdate?: number
+  episodes?: Episode[]
 }
 
 export interface Episode {

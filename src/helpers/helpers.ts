@@ -1,4 +1,4 @@
-import { type Podcast } from '../types.d'
+import { type Podcast, type Episode } from '../types.d'
 
 export const scrollToTop = () => {
   window.scrollTo({
@@ -34,4 +34,29 @@ export const getLastUpdate = (): number => {
   const lastUpdate = localStorage.getItem('podcaster-lastUpdate')
   if (lastUpdate === null) return milisecondsDate()
   return parseInt(lastUpdate)
+}
+
+export const setViewedPodcast = (podcast: Podcast) => {
+  const viewedPodcastLocalStorage = localStorage.getItem('podcaster-viewedPodcast') ?? '[]'
+  const viewedPodcastList = JSON.parse(viewedPodcastLocalStorage)
+  const podcastExist = viewedPodcastList.find((podcastItem: Podcast) => podcastItem.id === podcast.id)
+  if (podcastExist !== undefined) return
+  viewedPodcastList.push(podcast)
+  localStorage.setItem('podcaster-viewedPodcast', JSON.stringify(viewedPodcastList))
+}
+
+export const getViewedPodcast = (id: string): Podcast => {
+  const viewedPodcastLocalStorage = localStorage.getItem('podcaster-viewedPodcast') ?? '[]'
+  const viewedPodcastList = JSON.parse(viewedPodcastLocalStorage)
+  const podcastExist = viewedPodcastList.find((podcastItem: Podcast) => podcastItem.id === id)
+  return podcastExist
+}
+
+export const setEpisodesToViewedPodcast = (id: string, episodes: Episode[]) => {
+  const viewedPodcastLocalStorage = localStorage.getItem('podcaster-viewedPodcast') ?? '[]'
+  const viewedPodcastList = JSON.parse(viewedPodcastLocalStorage)
+  const podcastExist = viewedPodcastList.find((podcastItem: Podcast) => podcastItem.id === id)
+  if (podcastExist === undefined) return
+  podcastExist.episodes = episodes
+  localStorage.setItem('podcaster-viewedPodcast', JSON.stringify(viewedPodcastList))
 }

@@ -7,13 +7,14 @@ import { usePodcast } from '../hooks/usePodcast'
 
 const PodcastDetail = () => {
   const { id } = useParams()
-  const { podcastEpisodes } = usePodcast(id)
+  const podcastId = id as string
+  const { podcast, podcastEpisodes } = usePodcast(podcastId)
 
   return (
     <section className='podcast-detail'>
       <Row>
         <Col md={4}>
-          <PodcastInfo />
+          <PodcastInfo podcast={podcast} />
         </Col>
         <Col md={8}>
           <Episodes episodes={podcastEpisodes} />

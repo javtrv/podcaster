@@ -13,7 +13,23 @@ header{
   height: 75px;
   background-color: #fff;
   width: 80%;
+  a{
+    color: #3c4dfe;
+    &:hover{
+      color: #3c4dfe;
+    }
+  }
 }
+
+a{
+  color: #000;
+  text-decoration: none;
+  &:hover{
+    color: #000;
+    text-decoration: none;
+  }
+}
+
 
 .search{
   display: flex;
@@ -36,10 +52,15 @@ header{
   }
 }
 
-section.podcast-detail {
+section.detail-view {
   width: 100%;
-  min-height: 79vh;
   margin-top: 8rem;
+  &.podcast-view{
+    min-height: 79vh;
+  }
+  &.episode-view{
+    min-height: 93vh;
+  }
 }
 
 .podcast-grid{
@@ -72,7 +93,7 @@ section.podcast-detail {
     font-size: 1rem;
   }
   .card-text{
-    font-size: 0.8rem;
+    font-size: 0.9rem;
   }
   .card-body{
     width: 290px;
@@ -83,6 +104,7 @@ section.podcast-detail {
   }
   .card-img-top{
     width: 180px;
+    height: 180px;
     position: relative;
     border-radius: 50%;
     margin-bottom: 15px;
@@ -152,6 +174,41 @@ section.podcast-detail {
       }
       td{
         border-bottom: 1px solid #aca9a9;
+      }
+      a{
+        color: #3c4dfe;
+        &:hover{
+          color: #3c4dfe;
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+}
+
+.episode{
+  .episode-information{
+    text-align: left;
+    margin-bottom: 1rem;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
+    width: 100%;
+    border:none;
+    border-radius: 2%;
+    .episode-name{
+      font-size: 1.5rem;
+      padding: 1rem;
+      border-bottom: 1px solid #eee;
+    }
+    .episode-description{
+      font-size: 1rem;
+      padding: 1rem;
+      font-style: italic;
+    }
+    figure{
+      width: 100%;
+      padding: 1rem;
+      audio{
+        width: 100%;
       }
     }
   }

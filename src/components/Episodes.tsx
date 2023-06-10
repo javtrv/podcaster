@@ -3,11 +3,10 @@ import EpisodesTable from './EpisodesTable'
 import { type Episode } from '../types'
 
 interface EpisodesProps {
-  episodes: Episode[] | undefined
+  episodes: Episode[]
 }
 
 const Episodes = ({ episodes }: EpisodesProps) => {
-  // console.log('🚀 ~ file: Episodes.tsx:10 ~ Episodes ~ episodes:', episodes)
   return (
     <div className='episodes'>
       <Card className='episodes-quantity'>

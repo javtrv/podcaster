@@ -13,11 +13,11 @@ export const router = createBrowserRouter([
       },
       {
         path: '/podcast/:id',
-        element: <PodcastDetail/>
+        element: <PodcastDetail type='podcast'/>
       },
       {
         path: '/podcast/:id/episode/:episodeId',
-        element: <h1>Episode</h1>
+        element: <PodcastDetail type='episode'/>
       }
     ]
   }

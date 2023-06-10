@@ -17,7 +17,7 @@ const PodcastCard = ({ podcast }: PodcastCardProps) => {
   }
   return (
     <Card className='podcast-card' onClick={handleClickCard}>
-      <Card.Img variant="top" src={podcast.image} />
+      <Card.Img variant="top" src={podcast.image} width={180} />
       <Card.Body>
         <Card.Title className='truncate'>{podcast.title}</Card.Title>
         <Card.Text className='truncate'>

@@ -13,7 +13,12 @@ export const usePodcast = (podcastId: string) => {
 
   useEffect(() => {
     const podcast = getViewedPodcast(podcastId)
-    if (podcast === undefined) navigate('/')
+    console.log('🚀 ~ file: usePodcast.ts:16 ~ useEffect ~ podcast:', podcast)
+    if (podcast === null || podcast === undefined) {
+      console.error('Podcast not found')
+      navigate('/')
+      return
+    }
     setPodcast(podcast)
     if (podcast.episodes === undefined) {
       getPodcastEpisodesService(podcastId).then((episodes) => {

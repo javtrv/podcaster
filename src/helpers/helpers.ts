@@ -82,3 +82,12 @@ export const setEpisodesToViewedPodcast = (id: string, episodes: Episode[]) => {
   podcastExist.episodes = episodes
   localStorage.setItem('podcaster-viewedPodcast', JSON.stringify(viewedPodcastList))
 }
+
+export const getEpisodeFromViewedPodcast = (podcastId: string, episodeId: string): Episode | null => {
+  const viewedPodcastLocalStorage = localStorage.getItem('podcaster-viewedPodcast') ?? '[]'
+  const viewedPodcastList = JSON.parse(viewedPodcastLocalStorage)
+  const podcastExist = viewedPodcastList.find((podcastItem: Podcast) => podcastItem.id === podcastId)
+  if (podcastExist === undefined) return null
+  const episodeExist = podcastExist.episodes.find((episodeItem: Episode) => episodeItem.id === parseInt(episodeId))
+  return episodeExist
+}

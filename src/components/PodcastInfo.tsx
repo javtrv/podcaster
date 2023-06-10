@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom'
 import Card from 'react-bootstrap/Card'
 import { type Podcast } from '../types'
 interface PodcastInfoProps {
@@ -6,7 +7,7 @@ interface PodcastInfoProps {
 const PodcastInfo = ({ podcast }: PodcastInfoProps) => {
   if (podcast === undefined) return
   return (
-    <Card className='podcast-info'>
+    <Link to={`/podcast/${podcast.id}`}><Card className='podcast-info'>
     <Card.Img variant="top" src={podcast.image} />
     <Card.Body>
       <Card.Title>
@@ -18,7 +19,7 @@ const PodcastInfo = ({ podcast }: PodcastInfoProps) => {
         <i>{podcast.summary}</i>
       </Card.Text>
     </Card.Body>
-  </Card>
+  </Card></Link>
   )
 }
 

@@ -23,17 +23,3 @@ export const getPodcastEpisodesService = async (podcastId: string) => {
     return []
   })
 }
-
-// export const getPodcastDetailService = (): Episode[] => {
-//   const [first, ...rest] = podcastData[0].results
-//   const episodesList: Episode[] = rest.map((episode): Episode => ({
-//     id: episode.trackId,
-//     name: episode.trackName,
-//     date: episode.releaseDate,
-//     duration: episode.trackTimeMillis,
-//     description: episode.shortDescription ?? '',
-//     audio: episode.previewUrl ?? ''
-//   }))
-
-//   return episodesList
-// }

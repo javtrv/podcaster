@@ -1,18 +1,34 @@
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
 import Spinner from 'react-bootstrap/Spinner'
-import { useParams } from 'react-router-dom'
+import { useParams, useNavigate } from 'react-router-dom'
 import PodcastInfo from '../components/PodcastInfo'
 import Episodes from '../components/Episodes'
+import Episode from '../components/Episode'
 import { usePodcast } from '../hooks/usePodcast'
 
-const PodcastDetail = () => {
-  const { id } = useParams()
+interface PodcastDetailProps {
+  type: string
+}
+
+const PodcastDetail = ({ type }: PodcastDetailProps) => {
+  const navigate = useNavigate()
+  const { id, episodeId } = useParams()
   const podcastId = id as string
   const { podcast, podcastEpisodesList } = usePodcast(podcastId)
+  let episode = null
+  if (type === 'episode') {
+    episode = podcastEpisodesList?.filter(episode => episode.id === parseInt(episodeId as string))
+    if (episode === undefined || episode.length === 0) {
+      console.error('Episode not found')
+      navigate('/')
+      return null
+    }
+    if (episode !== null) episode = episode[0]
+  }
 
   return (
-    <section className='podcast-detail'>
+    <section className={`detail-view ${type}-view`}>
       <Row>
         {(podcastEpisodesList == null)
           ? (
@@ -26,7 +42,13 @@ const PodcastDetail = () => {
               <PodcastInfo podcast={podcast} />
             </Col>
             <Col md={8}>
-              <Episodes episodes={podcastEpisodesList} />
+              {type === 'podcast'
+                ? (
+                    <Episodes episodes={podcastEpisodesList} />
+                  )
+                : (
+                    <Episode episode={episode} />
+                  )}
             </Col>
           </>
             )}

@@ -13,13 +13,13 @@ const Episodes = ({ episodes }: EpisodesProps) => {
       <Card className='episodes-quantity'>
         <Card.Body>
           <Card.Text>
-            <b>Episodes: 123</b><br/>
+            <b>Episodes: {episodes?.length}</b><br/>
           </Card.Text>
         </Card.Body>
       </Card>
       <Card className='episodes-table'>
         <Card.Body>
-            <EpisodesTable/>
+            <EpisodesTable episodes={episodes}/>
         </Card.Body>
       </Card>
     </div>

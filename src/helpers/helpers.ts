@@ -19,6 +19,28 @@ const milisecondsDate = (): number => {
   return currentDate.getTime()
 }
 
+export const milisecondsToTime = (miliseconds: number): string => {
+  if (miliseconds === undefined) return 'No data'
+  const totalSeconds = Math.floor(miliseconds / 1000)
+  const hours = Math.floor(totalSeconds / 3600)
+  const minutes = Math.floor((totalSeconds % 3600) / 60)
+  const seconds = totalSeconds % 60
+
+  const formattedHours = hours.toString().padStart(2, '0')
+  const formattedMinutes = minutes.toString().padStart(2, '0')
+  const formattedSeconds = seconds.toString().padStart(2, '0')
+
+  return `${formattedHours}:${formattedMinutes}:${formattedSeconds}`.replace(/^00:/, '')
+}
+
+export const formatDate = (date: string): string => {
+  const dateObject = new Date(date)
+  const day = dateObject.getDate()
+  const month = dateObject.getMonth() + 1
+  const year = dateObject.getFullYear()
+  return `${day}/${month}/${year}`
+}
+
 export const savePodcastList = (podcastList: Podcast[]) => {
   localStorage.setItem('podcaster-podcastList', JSON.stringify(podcastList))
   localStorage.setItem('podcaster-lastUpdate', milisecondsDate().toString())

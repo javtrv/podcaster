@@ -1,26 +1,32 @@
 import Table from 'react-bootstrap/Table'
+import { type Episode } from '../types'
+import { Link, useParams } from 'react-router-dom'
+import { milisecondsToTime, formatDate } from '../helpers/helpers'
 
-const EpisodesTable = () => {
+interface EpisodesTableProps {
+  episodes: Episode[]
+}
+
+const EpisodesTable = ({ episodes }: EpisodesTableProps) => {
+  const { id } = useParams()
+  const podcastId = id as string
   return (
     <Table striped borderless hover>
       <thead>
         <tr>
           <th style={{ width: '60%' }}>Title</th>
           <th>Date</th>
-          <th>Duration</th>
+          <th style={{ textAlign: 'center' }}>Duration</th>
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>Episode 1</td>
-          <td>01/01/2023</td>
-          <td style={{ textAlign: 'center' }}>14:23</td>
-        </tr>
-        <tr>
-          <td>Episode 2</td>
-          <td>08/01/2023</td>
-          <td style={{ textAlign: 'center' }}>15:45</td>
-        </tr>
+        {episodes.map((episode) => (
+          <tr key={episode.id}>
+            <td><Link to={`/podcast/${podcastId}/episode/${episode.id}`}>{episode.name}</Link></td>
+            <td>{formatDate(episode.date)}</td>
+            <td style={{ textAlign: 'center' }}>{milisecondsToTime(episode.duration)}</td>
+          </tr>
+        ))}
       </tbody>
     </Table>
   )

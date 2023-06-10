@@ -3,12 +3,12 @@ import { useNavigate } from 'react-router-dom'
 // import { hasPassed24Hours } from '../helpers/helpers'
 import { type Podcast, type Episode } from '../types'
 // import podcastData from '../data/podcast.json'
-import { getPodcastDetailService } from '../services/getPodcastDetailService'
+import { getPodcastEpisodesService } from '../services/getPodcastEpisodesService'
 import { getViewedPodcast, setEpisodesToViewedPodcast } from '../helpers/helpers'
 
 export const usePodcast = (podcastId: string) => {
   const navigate = useNavigate()
-  const [podcastEpisodes, setPodcastEpisodes] = useState<Episode[]>([])
+  const [podcastEpisodesList, setPodcastEpisodesList] = useState<Episode[] | null>(null)
   const [podcast, setPodcast] = useState<Podcast>()
 
   useEffect(() => {
@@ -16,13 +16,17 @@ export const usePodcast = (podcastId: string) => {
     if (podcast === undefined) navigate('/')
     setPodcast(podcast)
     if (podcast.episodes === undefined) {
-      const episodes = getPodcastDetailService()
-      setPodcastEpisodes(episodes)
-      setEpisodesToViewedPodcast(podcastId, episodes)
+      getPodcastEpisodesService(podcastId).then((episodes) => {
+        setPodcastEpisodesList(episodes)
+        setEpisodesToViewedPodcast(podcastId, episodes)
+      }).catch((err) => {
+        console.error(err)
+        navigate('/')
+      })
     } else {
-      setPodcastEpisodes(podcast.episodes)
+      setPodcastEpisodesList(podcast.episodes)
     }
   }, [podcastId])
 
-  return { podcast, podcastEpisodes }
+  return { podcast, podcastEpisodesList }
 }

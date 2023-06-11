@@ -1,12 +1,14 @@
 import Card from 'react-bootstrap/Card'
 import EpisodesTable from './EpisodesTable'
 import { type Episode } from '../types'
+import { scrollToTop } from '../helpers/helpers'
 
 interface EpisodesProps {
   episodes: Episode[]
 }
 
 const Episodes = ({ episodes }: EpisodesProps) => {
+  scrollToTop()
   return (
     <div className='episodes'>
       <Card className='episodes-quantity'>

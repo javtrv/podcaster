@@ -13,7 +13,7 @@ const Home = () => {
       <Row>
         <Col>
           <Search
-            quantity={podcastList.length}
+            quantity={podcastList?.length ?? 0}
             handleChangeSearch={filterPodcastList}
           />
         </Col>

@@ -4,7 +4,7 @@ import { getPodcastListService } from '../services/getPodcastListService'
 import { scrollToTop, hasPassed24Hours, savePodcastList, getPodcastList, getLastUpdate } from '../helpers/helpers'
 
 export const usePodcastList = () => {
-  const [filteredPodcastList, setFilteredPodcastList] = useState<Podcast[]>([])
+  const [filteredPodcastList, setFilteredPodcastList] = useState<Podcast[] | null>(null)
   const originalPodcastList = useRef<Podcast[]>([])
 
   const refreshPodcastList = () => {

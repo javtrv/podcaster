@@ -15,7 +15,6 @@ const Episode = ({ episode }: EpisodeProps) => {
           <Card.Text>
             <p className='episode-name'><b>{episode?.name}</b></p>
             <div className='episode-description' dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(episode?.description as string) }} />
-            {/* <p className='episode-description'>{episode?.description}</p> */}
           </Card.Text>
           <figure>
             <audio

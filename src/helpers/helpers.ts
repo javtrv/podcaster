@@ -63,6 +63,7 @@ export const setViewedPodcast = (podcast: Podcast) => {
   const viewedPodcastList = JSON.parse(viewedPodcastLocalStorage)
   const podcastExist = viewedPodcastList.find((podcastItem: Podcast) => podcastItem.id === podcast.id)
   if (podcastExist !== undefined) return
+  podcast.lastUpdate = milisecondsDate()
   viewedPodcastList.push(podcast)
   localStorage.setItem('podcaster-viewedPodcast', JSON.stringify(viewedPodcastList))
 }

@@ -1,5 +1,7 @@
+$primary_color: #3c4dfe;
+
 header{
-  color: #3c4dfe;
+  color: $primary_color;
   text-decoration: inherit;
   font-size: 1.5rem;
   font-weight: 600;
@@ -14,9 +16,9 @@ header{
   background-color: #fff;
   width: 80%;
   a{
-    color: #3c4dfe;
+    color: $primary_color;
     &:hover{
-      color: #3c4dfe;
+      color: $primary_color;
     }
   }
 }
@@ -112,7 +114,7 @@ section.detail-view {
   }
 }
 
-.podcast-detail{
+.detail-view{
   .col-md-4, .col-md-8{
     display: flex;
     justify-content: center;
@@ -126,7 +128,7 @@ section.detail-view {
   justify-content: center;
   align-items: center;
   padding: 2rem 1rem;
-  width: 70%;
+  width: 85%;
   border-radius: 2%;
   border:none;
   box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.2);
@@ -176,9 +178,9 @@ section.detail-view {
         border-bottom: 1px solid #aca9a9;
       }
       a{
-        color: #3c4dfe;
+        color: $primary_color;
         &:hover{
-          color: #3c4dfe;
+          color: $primary_color;
           text-decoration: underline;
         }
       }
@@ -212,4 +214,12 @@ section.detail-view {
       }
     }
   }
+}
+
+.spinner-grow{
+  position: absolute;
+  top: 2%;
+  right: 11%;
+  z-index: 100;
+  background-color: $primary_color;
 }

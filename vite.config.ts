@@ -8,6 +8,6 @@ export default defineConfig(({ command, mode }) => ({
     minify: mode === 'development' ? false : 'esbuild',
     sourcemap: command === 'serve' ? 'inline' : false,
   },
-
+  base: './',
   plugins: [react()],
 }));

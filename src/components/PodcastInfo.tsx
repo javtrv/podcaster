@@ -6,20 +6,21 @@ interface PodcastInfoProps {
 }
 const PodcastInfo = ({ podcast }: PodcastInfoProps) => {
   if (podcast === undefined) return
+
   return (
-    <Link to={`/podcast/${podcast.id}`}><Card className='podcast-info'>
-    <Card.Img variant="top" src={podcast.image} />
-    <Card.Body>
-      <Card.Title>
-        {podcast.title}<br/>
-        by {podcast.author}
-      </Card.Title>
-      <Card.Text>
-        <b>Description:</b><br/>
-        <i>{podcast.summary}</i>
-      </Card.Text>
-    </Card.Body>
-  </Card></Link>
+    <Card className='podcast-info'>
+      <Link to={`/podcast/${podcast.id}`}><Card.Img variant="top" src={podcast.image} /></Link>
+      <Card.Body>
+        <Link to={`/podcast/${podcast.id}`}><Card.Title >
+          {podcast.title}<br/>
+          by {podcast.author}
+        </Card.Title></Link>
+        <Link to={`/podcast/${podcast.id}`}><Card.Text >
+          <b>Description:</b><br/>
+          <i>{podcast.summary}</i>
+        </Card.Text></Link>
+      </Card.Body>
+  </Card>
   )
 }
 
